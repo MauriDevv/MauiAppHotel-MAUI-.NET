@@ -59,6 +59,7 @@ Uma vez autenticado, o usuário permanece conectado mesmo após o fechamento da 
 
 Também foi implementada a funcionalidade de logout, que remove os dados armazenados e encerra a sessão ativa do usuário.
 
+# Conceitos Aplicados 
 
 Durante o desenvolvimento deste projeto foram utilizados os seguintes conceitos:
 
